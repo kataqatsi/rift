@@ -34,13 +34,6 @@
         },
         {
           "type": "webview",
-          "id": "another-sidebar",
-          "name": "another-sidebar",
-          "icon": "media/icon.svg",
-          "contextualTitle": "another"
-        },
-        {
-          "type": "webview",
           "id": "agents-sidebar",
           "name": "agents-sidebar",
           "icon": "media/icon.svg",
